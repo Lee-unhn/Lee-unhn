@@ -1,4 +1,4 @@
-#🚀 Hi, I'm Lee YunHan (李昀翰) 
+#🚀 Hi, I'm Lee YunHan
 
 ### **Tech Management | AI & Silicon Photonics | Cross-Border Operations** 
 
