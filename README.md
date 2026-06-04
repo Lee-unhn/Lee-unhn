@@ -1,60 +1,54 @@
-#🚀 Hi, I'm Lee YunHan
+# Hi, I'm Lee Yun-han (李昀翰)
 
-### **Tech Management | AI & Silicon Photonics | Cross-Border Operations** 
-
-我是一位具備科技管理背景的專業管理者 。擅長發揮「技術轉譯」與「精實管理」的雙重優勢，將複雜的 AI 演算法與半導體技術轉化為具體的商業決策。
-
----
-
-## 🛠️ 專業技能 (Core Competencies)
-
-### **技術與分析 (Technical & Data)**
-**程式語言與資料庫：** Python 、MySQL 。
-
-**新興技術：** 具備矽光子、量子技術與 AI 應用（需求分析、數據清洗、模型訓練與評估）之專業人才養成背景 。
-
-**數據驅動決策：** 擅長透過數據分析（RCA）掌握產出異常，並執行 P&L 損益深度分析與 KPI 監控 。
-
-### **經營管理 (Operations & Management)**
-**跨國營運：** 曾任日本企業區域主管，統籌逾百人跨國團隊。
-
-**專案管理：** 熟悉專案全生命週期管理，運用關鍵路徑法 (CPM) 與里程碑管理控管進度。
-
-**精實人資：** 優化新人培訓與升遷制度，成功縮短 15% 導入週期並提升 13% 人員穩定率。
-
-### **視覺與空間設計 (Design & Tools)**
-**多媒體編輯：** Photoshop、Illustrator 。
-
-**空間規劃：** AutoCAD 、Sketch up、3DMax。
+> **Tech Management × AI Engineering × Cross-Border Operations**
+>
+> 把 MBA 的「策略語言」翻成工程師聽得懂的 prompt，把 AI 工具翻成主管聽得懂的決策。
 
 ---
 
-## 📈 職涯實績 (Key Achievements)
+## About
 
-**營收大幅成長：** 帶領日本愛知地區多間門市，透過數據驅動變革讓億元單位營收，達成年營收 **20% - 30%** 的成長 。
+清華大學科技管理研究所 (NTHU MBA) · 前日本愛知地區營運主管，曾統籌跨國百人團隊 · 半年前正式進入 AI engineering，從 prompt → skill → 自動化管線一路自學自做。
 
-**教育與知識傳遞：** 清華大學聘任講師，教導跨文化決策模型、數據驅動管理實務，建立思維體系、人才培育、實戰轉化 。
-
-**跨國溝通橋樑：** 具備中、日、英三語商務溝通與國際簡報能力，有效對接跨國制度。
-
-**技術與實務結合：** 具備半導體相關知識與 AI 應用策略，能快速與研發/製造團隊建立共通語言。
+相信「**翻譯員**」這個角色：在技術與管理之間，把雙方的語言翻成對方聽得懂的版本。Repos 是這個信念的副產品。
 
 ---
 
-## 🌍 語言能力 (Languages)
+## Currently working on
 
-**日文 (Japanese)：** JLPT **N1** (精通，具專業簡報與商務溝通能力) 。
+| Project | What | Status |
+|---|---|---|
+| [`psmf-coach`](https://github.com/Lee-unhn/psmf-coach) | 個人化 PSMF 減脂教練 · 動態菜單 + 週日自動研究更新 + SMTP 週報 | 規劃定案 |
+| [`n8n-content-orchestrator-public`](https://github.com/Lee-unhn/n8n-content-orchestrator-public) | 多模態內容管線總指揮 · cloud routines + Gist 橋接 + 多平台發布 | P0–P2 完成 |
+| [`AutoVtuber`](https://github.com/Lee-unhn) | VRoid + VSeeFace + 本地 LLM 的 AI 主播 MVP | MVP1 ~88% |
+| [`claude-skill-fb-page-translator`](https://github.com/Lee-unhn/claude-skill-fb-page-translator) | FB Page 翻譯員 voice 的 Claude Code skill (v0.1.0 released) | Public |
+| [`info-flow-viewer`](https://github.com/Lee-unhn/info-flow-viewer) | ERP 資訊流圖編輯器 (private fork) · v2.4.0 GA | Released |
 
-**英文 (English)：** TOEIC (具專業簡報與跨國溝通能力)。
+---
 
-**德文 (German)：** ZDaF **B2** (基礎能力) 。
+## Stack I work with
+
+**Daily**: Python · TypeScript / React · Claude Code · n8n · Ollama (local LLM) · Gemini API · FastAPI · Vite
+
+**Comfortable**: MySQL · MediaPipe · Whisper · Edge TTS · GitHub Actions · Cloudflare Pages · FB Graph API
+
+**Learning**: Tauri · CRDT (Yjs) · 矽光子 / 量子應用脈絡
 
 ---
 
-## 🎓 學歷 (Education)
+## Background
 
-**國立清華大學 (NTHU)：** 科技管理研究所 碩士。
-
-**國立金門大學 (NQU)：** 觀光與休閒管理學系、建築學系 學士 。
+- **學歷** · 國立清華大學 科技管理研究所 碩士 · 國立金門大學 觀光與休閒管理 / 建築學系 雙學士
+- **語言** · 日文 JLPT N1 · 英文 TOEIC 商務級 · 德文 ZDaF B2
+- **教學** · 清華大學聘任講師 · 跨文化決策模型 / 數據驅動管理實務
+- **跨國營運** · 日本愛知地區多門市區域主管 · 帶領團隊達成年營收 20–30% 成長
+- **精實人資** · 優化新人培訓與升遷制度，縮短 15% 導入週期、提升 13% 人員穩定率
 
 ---
+
+## Contact
+
+- Email · [a2264563@gmail.com](mailto:a2264563@gmail.com)
+- GitHub · [@Lee-unhn](https://github.com/Lee-unhn)
+
+> 想聊技術轉譯、跨國團隊、AI 落地，或單純想看一個 MBA 怎麼學 vibe coding —— 都歡迎寫信。
