@@ -1,8 +1,14 @@
+<div align="center">
+
 # Hi, I'm JasonLee
 
-> **Tech Management × AI Engineering × Cross-Border Operations**
->
-> 把 MBA 的「策略語言」翻成工程師聽得懂的 prompt，把 AI 工具翻成主管聽得懂的決策。
+**Tech Management × AI Engineering × Cross-Border Operations**
+
+把 MBA 的「策略語言」翻成工程師聽得懂的 prompt，把 AI 工具翻成主管聽得懂的決策。
+
+![資料分析師](https://img.shields.io/badge/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%E5%B8%AB-1f6feb?style=for-the-badge) ![清華大學科技管理研究所](https://img.shields.io/badge/%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E7%A7%91%E6%8A%80%E7%AE%A1%E7%90%86%E7%A0%94%E7%A9%B6%E6%89%80-7c3aed?style=for-the-badge) ![日本愛知・跨國營運](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E6%84%9B%E7%9F%A5%E3%83%BB%E8%B7%A8%E5%9C%8B%E7%87%9F%E9%81%8B-c2410c?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -16,17 +22,56 @@
 
 ## Projects
 
-| Project | What | Demo |
-|---|---|---|
-| [`industry-insight-site`](https://github.com/Lee-unhn/industry-insight-site) | 開店分析所 · 用政府公開資料做成大商圈開店評估：互動圖表、各篇分析與 CSV 下載 | [線上瀏覽](https://lee-unhn.github.io/industry-insight-site/) |
-| [`erp-tower`](https://github.com/Lee-unhn/erp-tower) | Oracle Fusion 塔之試煉 · 把 ERP 證照備考做成牌組構築 Roguelike，六座塔對應六個模組，純前端離線單檔 | [線上遊玩](https://lee-unhn.github.io/erp-tower/) |
-| [`oracle-om-config-guide`](https://github.com/Lee-unhn/oracle-om-config-guide) | Oracle Order Management 配置工作簿教學包 · 17 張設定表的白話導覽、逐欄選項、表單標註圖與連動關係 | [線上瀏覽](https://lee-unhn.github.io/oracle-om-config-guide/) |
-| [`video-to-podcast-toolkit`](https://github.com/Lee-unhn/video-to-podcast-toolkit) | 訪談影片 → podcast 一集的全套素材：m4a、三版海報、Reel、文案 · 本機 FastAPI Web UI | 本機執行 |
-| [`AutoVtuber`](https://github.com/Lee-unhn/AutoVtuber) | 填一張表單，約 8 分鐘產出可直接載入 VSeeFace 的 .vrm 模型 · SDXL + TripoSR | 本機執行 |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://lee-unhn.github.io/industry-insight-site/"><img src="assets/industry-insight.jpg" alt="開店分析所 首頁畫面"></a>
+<h3>開店分析所</h3>
+用政府公開資料做成大商圈開店評估：互動圖表、各篇分析與 CSV 下載。
+<br><br>
+<a href="https://lee-unhn.github.io/industry-insight-site/"><b>線上瀏覽</b></a> · <a href="https://github.com/Lee-unhn/industry-insight-site">原始碼</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://lee-unhn.github.io/erp-tower/"><img src="assets/erp-tower.jpg" alt="Oracle Fusion 塔之試煉 選擇模組畫面"></a>
+<h3>Oracle Fusion 塔之試煉</h3>
+把 ERP 證照備考做成牌組構築 Roguelike，六座塔對應六個模組，純前端離線單檔。
+<br><br>
+<a href="https://lee-unhn.github.io/erp-tower/"><b>線上遊玩</b></a> · <a href="https://github.com/Lee-unhn/erp-tower">原始碼</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://lee-unhn.github.io/oracle-om-config-guide/"><img src="assets/oracle-om.jpg" alt="Oracle OM 配置工作簿教學總入口"></a>
+<h3>Oracle OM 配置工作簿教學包</h3>
+17 張設定表的白話導覽、逐欄選項、表單標註圖與連動關係。
+<br><br>
+<a href="https://lee-unhn.github.io/oracle-om-config-guide/"><b>線上瀏覽</b></a> · <a href="https://github.com/Lee-unhn/oracle-om-config-guide">原始碼</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Lee-unhn/AutoVtuber"><img src="assets/autovtuber.jpg" alt="AutoVtuber 產生的角色概念圖"></a>
+<h3>AutoVtuber</h3>
+填一張表單，約 8 分鐘產出可直接載入 VSeeFace 的 .vrm 模型。SDXL + TripoSR。
+<br><br>
+<a href="https://github.com/Lee-unhn/AutoVtuber"><b>原始碼</b></a> · 本機執行
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<h3>video-to-podcast-toolkit</h3>
+訪談影片 → podcast 一集的全套素材：m4a、三版海報、Reel、文案。本機 FastAPI Web UI，拖檔即跑。
+<br><br>
+<a href="https://github.com/Lee-unhn/video-to-podcast-toolkit"><b>原始碼</b></a> · 本機執行
+</td>
+</tr>
+</table>
 
 ---
 
 ## Stack I work with
+
+<p>
+<img src="https://skillicons.dev/icons?i=py,ts,react,vite,fastapi,nodejs,mysql,sqlite,githubactions,cloudflare&perline=10" alt="Python, TypeScript, React, Vite, FastAPI, Node.js, MySQL, SQLite, GitHub Actions, Cloudflare">
+</p>
 
 **Daily**: Python · TypeScript / React · Claude Code · Ollama (local LLM) · Gemini API · FastAPI · Vite
 
@@ -48,7 +93,6 @@
 
 ## Contact
 
-- Email · [a2264563@gmail.com](mailto:a2264563@gmail.com)
-- GitHub · [@Lee-unhn](https://github.com/Lee-unhn)
+<a href="mailto:a2264563@gmail.com"><img src="https://img.shields.io/badge/Email-a2264563%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://github.com/Lee-unhn"><img src="https://img.shields.io/badge/GitHub-Lee--unhn-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
 > 想聊技術轉譯、跨國團隊、AI 落地，或單純想看一個 MBA 怎麼學 vibe coding —— 都歡迎寫信。
